@@ -1,0 +1,13 @@
+tag v1.8
+59bc9c4268efcf32de13980209b61cf24608fc07
+Jordon <jordon@localhost>
+2013-03-09 19:49:52 -0800
+
+Tagging as v1.8
+
+
+--------------------
+
+Jordon:
+	- update toc to 5.2
+	- enable for non-rated battlegrounds

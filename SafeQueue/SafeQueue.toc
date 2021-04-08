@@ -1,0 +1,13 @@
+## Interface: 50200
+## Title: SafeQueue
+## Notes: Removes the "Leave Queue" button for arenas and battlegrounds
+## Version: v1.8
+## Author: Jordon
+## DefaultState: Enabled
+## SavedVariables: SafeQueueDB
+## X-Curse-Packaged-Version: v1.8
+## X-Curse-Project-Name: SafeQueue
+## X-Curse-Project-ID: safequeue
+## X-Curse-Repository-ID: wow/safequeue/mainline
+
+SafeQueue.lua
